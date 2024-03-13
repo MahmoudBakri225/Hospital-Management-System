@@ -1,0 +1,54 @@
+﻿@model Doctor
+<h1>Complete Appointment with @Model.Name</h1>
+
+<form method="post" action="@Url.Action("SaveReservation", "Doctor")" id="completeAppointmentForm">
+    <input type="hidden" id="DrName" name="DrName" value="@Model.Name" />
+
+    <div class="form-group">
+        <label for="patientName">Patient Name:</label>
+        <input type="text" class="form-control" id="patientName" name="patientName" required />
+    </div>
+
+    <div class="form-group">
+        <label for="appointmentDate">Appointment Date:</label>
+        <input type="date" class="form-control" id="appointmentDate" name="appointmentDate" required />
+    </div>
+
+    <div class="form-group">
+        <label for="appointmentTime">Appointment Time:</label>
+        <input type="time" class="form-control" id="appointmentTime" name="appointmentTime" required /><br />
+    </div>
+
+    <div class="form-group">
+        <button type="submit" class="btn btn-primary" data-bs-dismiss="modal">Complete Appointment</button>
+    </div>
+</form>
+
+<div class="modal fade" id="appointmentModal" tabindex="-1" aria-labelledby="appointmentModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-top">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="appointmentModalLabel">Appointment Completed</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                Your appointment has been successfully completed. Thank you!
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary" data-bs-dismiss="modal">submit</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            $("#completeAppointmentForm").submit(function () {
+                $('#appointmentModal').modal('show');
+                return false;
+            });
+        });
+    </script>
+}

@@ -1,0 +1,16 @@
+﻿@model List<Doctor>
+<div class="row">
+    @foreach (var doctor in Model)
+    {
+        <div class="col-md-4 mb-4">
+            <div class="card">
+                <img src="~/images/@doctor.Img" class="card-img-top" alt="@doctor.Name">
+                <div class="card-body">
+                    <h5 class="card-title">@doctor.Name</h5>
+                    <p class="card-text"><strong>Specialization:</strong> @doctor.Specialization</p>
+                    <a href="@Url.Action("CompleteAppointment", "Doctor", new { Name = doctor.Name })" class="btn btn-primary">Book Appointment</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>

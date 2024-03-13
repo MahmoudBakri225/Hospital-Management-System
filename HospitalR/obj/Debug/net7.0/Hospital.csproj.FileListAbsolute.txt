@@ -1,0 +1,90 @@
+C:\Users\Mahmoud\Desktop\Hospital\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Mahmoud\Desktop\Hospital\bin\Debug\net7.0\appsettings.json
+C:\Users\Mahmoud\Desktop\Hospital\bin\Debug\net7.0\Hospital.staticwebassets.runtime.json
+C:\Users\Mahmoud\Desktop\Hospital\bin\Debug\net7.0\Hospital.exe
+C:\Users\Mahmoud\Desktop\Hospital\bin\Debug\net7.0\Hospital.deps.json
+C:\Users\Mahmoud\Desktop\Hospital\bin\Debug\net7.0\Hospital.runtimeconfig.json
+C:\Users\Mahmoud\Desktop\Hospital\bin\Debug\net7.0\Hospital.dll
+C:\Users\Mahmoud\Desktop\Hospital\bin\Debug\net7.0\Hospital.pdb
+C:\Users\Mahmoud\Desktop\Hospital\obj\Debug\net7.0\Hospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmoud\Desktop\Hospital\obj\Debug\net7.0\Hospital.AssemblyInfoInputs.cache
+C:\Users\Mahmoud\Desktop\Hospital\obj\Debug\net7.0\Hospital.AssemblyInfo.cs
+C:\Users\Mahmoud\Desktop\Hospital\obj\Debug\net7.0\Hospital.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud\Desktop\Hospital\obj\Debug\net7.0\Hospital.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mahmoud\Desktop\Hospital\obj\Debug\net7.0\Hospital.RazorAssemblyInfo.cache
+C:\Users\Mahmoud\Desktop\Hospital\obj\Debug\net7.0\Hospital.RazorAssemblyInfo.cs
+C:\Users\Mahmoud\Desktop\Hospital\obj\Debug\net7.0\staticwebassets\msbuild.Hospital.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mahmoud\Desktop\Hospital\obj\Debug\net7.0\staticwebassets\msbuild.build.Hospital.props
+C:\Users\Mahmoud\Desktop\Hospital\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Hospital.props
+C:\Users\Mahmoud\Desktop\Hospital\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Hospital.props
+C:\Users\Mahmoud\Desktop\Hospital\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Mahmoud\Desktop\Hospital\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Mahmoud\Desktop\Hospital\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Mahmoud\Desktop\Hospital\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Mahmoud\Desktop\Hospital\obj\Debug\net7.0\scopedcss\bundle\Hospital.styles.css
+C:\Users\Mahmoud\Desktop\Hospital\obj\Debug\net7.0\scopedcss\projectbundle\Hospital.bundle.scp.css
+C:\Users\Mahmoud\Desktop\Hospital\obj\Debug\net7.0\Hospital.dll
+C:\Users\Mahmoud\Desktop\Hospital\obj\Debug\net7.0\refint\Hospital.dll
+C:\Users\Mahmoud\Desktop\Hospital\obj\Debug\net7.0\Hospital.pdb
+C:\Users\Mahmoud\Desktop\Hospital\obj\Debug\net7.0\Hospital.genruntimeconfig.cache
+C:\Users\Mahmoud\Desktop\Hospital\obj\Debug\net7.0\ref\Hospital.dll
+C:\Users\Mahmoud\Desktop\HospitalR\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Mahmoud\Desktop\HospitalR\bin\Debug\net7.0\appsettings.json
+C:\Users\Mahmoud\Desktop\HospitalR\bin\Debug\net7.0\Hospital.staticwebassets.runtime.json
+C:\Users\Mahmoud\Desktop\HospitalR\bin\Debug\net7.0\Hospital.exe
+C:\Users\Mahmoud\Desktop\HospitalR\bin\Debug\net7.0\Hospital.deps.json
+C:\Users\Mahmoud\Desktop\HospitalR\bin\Debug\net7.0\Hospital.runtimeconfig.json
+C:\Users\Mahmoud\Desktop\HospitalR\bin\Debug\net7.0\Hospital.dll
+C:\Users\Mahmoud\Desktop\HospitalR\bin\Debug\net7.0\Hospital.pdb
+C:\Users\Mahmoud\Desktop\HospitalR\obj\Debug\net7.0\Hospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmoud\Desktop\HospitalR\obj\Debug\net7.0\Hospital.AssemblyInfoInputs.cache
+C:\Users\Mahmoud\Desktop\HospitalR\obj\Debug\net7.0\Hospital.AssemblyInfo.cs
+C:\Users\Mahmoud\Desktop\HospitalR\obj\Debug\net7.0\Hospital.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud\Desktop\HospitalR\obj\Debug\net7.0\Hospital.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mahmoud\Desktop\HospitalR\obj\Debug\net7.0\Hospital.RazorAssemblyInfo.cache
+C:\Users\Mahmoud\Desktop\HospitalR\obj\Debug\net7.0\Hospital.RazorAssemblyInfo.cs
+C:\Users\Mahmoud\Desktop\HospitalR\obj\Debug\net7.0\staticwebassets\msbuild.Hospital.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mahmoud\Desktop\HospitalR\obj\Debug\net7.0\staticwebassets\msbuild.build.Hospital.props
+C:\Users\Mahmoud\Desktop\HospitalR\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Hospital.props
+C:\Users\Mahmoud\Desktop\HospitalR\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Hospital.props
+C:\Users\Mahmoud\Desktop\HospitalR\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Mahmoud\Desktop\HospitalR\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Mahmoud\Desktop\HospitalR\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Mahmoud\Desktop\HospitalR\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Mahmoud\Desktop\HospitalR\obj\Debug\net7.0\scopedcss\bundle\Hospital.styles.css
+C:\Users\Mahmoud\Desktop\HospitalR\obj\Debug\net7.0\scopedcss\projectbundle\Hospital.bundle.scp.css
+C:\Users\Mahmoud\Desktop\HospitalR\obj\Debug\net7.0\Hospital.dll
+C:\Users\Mahmoud\Desktop\HospitalR\obj\Debug\net7.0\refint\Hospital.dll
+C:\Users\Mahmoud\Desktop\HospitalR\obj\Debug\net7.0\Hospital.pdb
+C:\Users\Mahmoud\Desktop\HospitalR\obj\Debug\net7.0\Hospital.genruntimeconfig.cache
+C:\Users\Mahmoud\Desktop\HospitalR\obj\Debug\net7.0\ref\Hospital.dll
+C:\Users\Mahmoud\Desktop\New folder\HospitalR\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Mahmoud\Desktop\New folder\HospitalR\bin\Debug\net7.0\appsettings.json
+C:\Users\Mahmoud\Desktop\New folder\HospitalR\bin\Debug\net7.0\Hospital.staticwebassets.runtime.json
+C:\Users\Mahmoud\Desktop\New folder\HospitalR\bin\Debug\net7.0\Hospital.exe
+C:\Users\Mahmoud\Desktop\New folder\HospitalR\bin\Debug\net7.0\Hospital.deps.json
+C:\Users\Mahmoud\Desktop\New folder\HospitalR\bin\Debug\net7.0\Hospital.runtimeconfig.json
+C:\Users\Mahmoud\Desktop\New folder\HospitalR\bin\Debug\net7.0\Hospital.dll
+C:\Users\Mahmoud\Desktop\New folder\HospitalR\bin\Debug\net7.0\Hospital.pdb
+C:\Users\Mahmoud\Desktop\New folder\HospitalR\obj\Debug\net7.0\Hospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmoud\Desktop\New folder\HospitalR\obj\Debug\net7.0\Hospital.AssemblyInfoInputs.cache
+C:\Users\Mahmoud\Desktop\New folder\HospitalR\obj\Debug\net7.0\Hospital.AssemblyInfo.cs
+C:\Users\Mahmoud\Desktop\New folder\HospitalR\obj\Debug\net7.0\Hospital.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud\Desktop\New folder\HospitalR\obj\Debug\net7.0\Hospital.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mahmoud\Desktop\New folder\HospitalR\obj\Debug\net7.0\Hospital.RazorAssemblyInfo.cache
+C:\Users\Mahmoud\Desktop\New folder\HospitalR\obj\Debug\net7.0\Hospital.RazorAssemblyInfo.cs
+C:\Users\Mahmoud\Desktop\New folder\HospitalR\obj\Debug\net7.0\staticwebassets\msbuild.Hospital.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mahmoud\Desktop\New folder\HospitalR\obj\Debug\net7.0\staticwebassets\msbuild.build.Hospital.props
+C:\Users\Mahmoud\Desktop\New folder\HospitalR\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Hospital.props
+C:\Users\Mahmoud\Desktop\New folder\HospitalR\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Hospital.props
+C:\Users\Mahmoud\Desktop\New folder\HospitalR\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Mahmoud\Desktop\New folder\HospitalR\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Mahmoud\Desktop\New folder\HospitalR\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Mahmoud\Desktop\New folder\HospitalR\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Mahmoud\Desktop\New folder\HospitalR\obj\Debug\net7.0\scopedcss\bundle\Hospital.styles.css
+C:\Users\Mahmoud\Desktop\New folder\HospitalR\obj\Debug\net7.0\scopedcss\projectbundle\Hospital.bundle.scp.css
+C:\Users\Mahmoud\Desktop\New folder\HospitalR\obj\Debug\net7.0\Hospital.dll
+C:\Users\Mahmoud\Desktop\New folder\HospitalR\obj\Debug\net7.0\refint\Hospital.dll
+C:\Users\Mahmoud\Desktop\New folder\HospitalR\obj\Debug\net7.0\Hospital.pdb
+C:\Users\Mahmoud\Desktop\New folder\HospitalR\obj\Debug\net7.0\Hospital.genruntimeconfig.cache
+C:\Users\Mahmoud\Desktop\New folder\HospitalR\obj\Debug\net7.0\ref\Hospital.dll

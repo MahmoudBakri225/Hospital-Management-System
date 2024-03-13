@@ -1,0 +1,30 @@
+﻿@model List<Reservation>
+
+<h1>Reservation Management</h1>
+
+@if (Model.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Doctor Name</th>
+                <th>Appointment Date</th>
+                <th>Appointment Time</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var reservation in Model)
+            {
+                <tr>
+                    <td>@reservation.DoctorName</td>
+                    <td>@reservation.AppointmentDate.ToShortDateString()</td>
+                    <td>@reservation.AppointmentTime.ToString(@"hh\:mm")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No appointments available.</p>
+}
