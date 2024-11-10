@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mahmoud\\Desktop\\Hospital\\Hospital.csproj": {}
+    "D:\\course\\MVC\\Lec1\\Hospital\\Hospital\\Hospital.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mahmoud\\Desktop\\Hospital\\Hospital.csproj": {
+    "D:\\course\\MVC\\Lec1\\Hospital\\Hospital\\Hospital.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mahmoud\\Desktop\\Hospital\\Hospital.csproj",
+        "projectUniqueName": "D:\\course\\MVC\\Lec1\\Hospital\\Hospital\\Hospital.csproj",
         "projectName": "Hospital",
-        "projectPath": "C:\\Users\\Mahmoud\\Desktop\\Hospital\\Hospital.csproj",
+        "projectPath": "D:\\course\\MVC\\Lec1\\Hospital\\Hospital\\Hospital.csproj",
         "packagesPath": "C:\\Users\\Mahmoud\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mahmoud\\Desktop\\Hospital\\obj\\",
+        "outputPath": "D:\\course\\MVC\\Lec1\\Hospital\\Hospital\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mahmoud\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,6 +35,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -58,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

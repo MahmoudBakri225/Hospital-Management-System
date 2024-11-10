@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\course\\MVC\\Lec1\\Hospital\\Hospital\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C80264AA-050C-448C-853E-6954B5A1C41B}|Hospital.csproj|d:\\course\\mvc\\lec1\\hospital\\hospital\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80264AA-050C-448C-853E-6954B5A1C41B}|Hospital.csproj|solutionrelative:controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80264AA-050C-448C-853E-6954B5A1C41B}|Hospital.csproj|d:\\course\\mvc\\lec1\\hospital\\hospital\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C80264AA-050C-448C-853E-6954B5A1C41B}|Hospital.csproj|solutionrelative:views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80264AA-050C-448C-853E-6954B5A1C41B}|Hospital.csproj|d:\\course\\mvc\\lec1\\hospital\\hospital\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C80264AA-050C-448C-853E-6954B5A1C41B}|Hospital.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80264AA-050C-448C-853E-6954B5A1C41B}|Hospital.csproj|d:\\course\\mvc\\lec1\\hospital\\hospital\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80264AA-050C-448C-853E-6954B5A1C41B}|Hospital.csproj|solutionrelative:models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\course\\MVC\\Lec1\\Hospital\\Hospital\\Views\\Doctor\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Doctor\\Index.cshtml",
+              "ToolTip": "D:\\course\\MVC\\Lec1\\Hospital\\Hospital\\Views\\Doctor\\Index.cshtml",
+              "RelativeToolTip": "Views\\Doctor\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T21:33:25.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\course\\MVC\\Lec1\\Hospital\\Hospital\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\course\\MVC\\Lec1\\Hospital\\Hospital\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-28T15:26:09.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "D:\\course\\MVC\\Lec1\\Hospital\\Hospital\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "Models\\Doctor.cs",
+              "ToolTip": "D:\\course\\MVC\\Lec1\\Hospital\\Hospital\\Models\\Doctor.cs",
+              "RelativeToolTip": "Models\\Doctor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T15:26:02.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "D:\\course\\MVC\\Lec1\\Hospital\\Hospital\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DoctorController.cs",
+              "ToolTip": "D:\\course\\MVC\\Lec1\\Hospital\\Hospital\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "Controllers\\DoctorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T17:46:25.185Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

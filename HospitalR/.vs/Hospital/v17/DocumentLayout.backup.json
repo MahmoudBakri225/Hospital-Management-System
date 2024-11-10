@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\course\\MVC\\Lec1\\Hospital\\HospitalR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AECA0F2-AD89-4C1D-846B-ABB124EA5D25}|Hospital.csproj|d:\\course\\mvc\\lec1\\hospital\\hospitalr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AECA0F2-AD89-4C1D-846B-ABB124EA5D25}|Hospital.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AECA0F2-AD89-4C1D-846B-ABB124EA5D25}|Hospital.csproj|d:\\course\\mvc\\lec1\\hospital\\hospitalr\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AECA0F2-AD89-4C1D-846B-ABB124EA5D25}|Hospital.csproj|solutionrelative:controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AECA0F2-AD89-4C1D-846B-ABB124EA5D25}|Hospital.csproj|d:\\course\\mvc\\lec1\\hospital\\hospitalr\\views\\doctor\\completeappointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AECA0F2-AD89-4C1D-846B-ABB124EA5D25}|Hospital.csproj|solutionrelative:views\\doctor\\completeappointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\course\\MVC\\Lec1\\Hospital\\HospitalR\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\course\\MVC\\Lec1\\Hospital\\HospitalR\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:41:42.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "D:\\course\\MVC\\Lec1\\Hospital\\HospitalR\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DoctorController.cs",
+              "ToolTip": "D:\\course\\MVC\\Lec1\\Hospital\\HospitalR\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "Controllers\\DoctorController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:39:30.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CompleteAppointment.cshtml",
+              "DocumentMoniker": "D:\\course\\MVC\\Lec1\\Hospital\\HospitalR\\Views\\Doctor\\CompleteAppointment.cshtml",
+              "RelativeDocumentMoniker": "Views\\Doctor\\CompleteAppointment.cshtml",
+              "ToolTip": "D:\\course\\MVC\\Lec1\\Hospital\\HospitalR\\Views\\Doctor\\CompleteAppointment.cshtml",
+              "RelativeToolTip": "Views\\Doctor\\CompleteAppointment.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T16:39:17.354Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
