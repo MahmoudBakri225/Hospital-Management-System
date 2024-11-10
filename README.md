@@ -13,7 +13,7 @@ Welcome to the Hospital Management System, a web application designed to facilit
 ### Home Page
 The main landing page introduces the hospital and lists available specialties, including Internal Medicine, Pediatrics, and Surgery.
 
-![Home Page](./screenshots/Hospital1.png)
+![Home Page](./images//Hospital-Management-System/blob/main/images/Hospital1.png)
 
 ### Reservations Management
 A view of all scheduled appointments, showing the doctor’s name, appointment date, and time.
