@@ -25,8 +25,6 @@ A view of all scheduled appointments, showing the doctor’s name, appointment d
 
 ![Reservations Management](https://github.com/MahmoudBakri225/Hospital-Management-System/blob/main/images/hospital3.png)
 
-
-
 ## Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript
