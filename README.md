@@ -15,15 +15,17 @@ The main landing page introduces the hospital and lists available specialties, i
 
 ![Home Page](https://github.com/MahmoudBakri225/Hospital-Management-System/blob/main/images/Hospital1.png)
 
-### Reservations Management
-A view of all scheduled appointments, showing the doctor’s name, appointment date, and time.
-
-![Reservations Management](./screenshots/hospital3.png)
-
 ### Doctor Profiles
 Detailed profiles of doctors, including their name, specialization, and an option to book an appointment.
 
-![Doctor Profiles](./screenshots/Hospital21.png)
+![Doctor Profiles](https://github.com/MahmoudBakri225/Hospital-Management-System/blob/main/images/Hospital21.png)
+
+### Reservations Management
+A view of all scheduled appointments, showing the doctor’s name, appointment date, and time.
+
+![Reservations Management](https://github.com/MahmoudBakri225/Hospital-Management-System/blob/main/images/hospital3.png)
+
+
 
 ## Technologies Used
 
